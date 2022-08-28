@@ -1,2 +1,2 @@
 # react-test-drive
-for quicjly tring out various react libraries
+for quickly tring out various react libraries
